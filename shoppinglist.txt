@@ -9,3 +9,4 @@ bread
 jam
 potatoes
 tomatoes
+cheese
